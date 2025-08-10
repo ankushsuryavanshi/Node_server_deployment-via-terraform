@@ -1,0 +1,5 @@
+aws_region = "us-east-1"
+name_prefix = "nodeapp"
+vpc_cidr = "10.1.0.0/16"
+container_image_tag = "latest"
+alb_ingress_cidr = "0.0.0.0/0"
